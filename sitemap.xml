@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shuheiktgw.github.io/posts/test/</loc>
+    <loc>https://shuheiktgw.com/posts/test/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shuheiktgw.github.io/categories/</loc>
+    <loc>https://shuheiktgw.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shuheiktgw.github.io/tags/go/</loc>
-    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuheiktgw.github.io/tags/golang/</loc>
+    <loc>https://shuheiktgw.com/tags/go/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shuheiktgw.github.io/posts/</loc>
+    <loc>https://shuheiktgw.com/tags/golang/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shuheiktgw.github.io/tags/</loc>
+    <loc>https://shuheiktgw.com/posts/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shuheiktgw.github.io/</loc>
+    <loc>https://shuheiktgw.com/tags/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuheiktgw.com/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
