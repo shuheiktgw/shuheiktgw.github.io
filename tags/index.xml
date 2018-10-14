@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright Shuhei Kitagawa</copyright>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.shuheiktgw.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Go</title>
-      <link>https://www.shuheiktgw.com/tags/go/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.shuheiktgw.com/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Golang</title>
       <link>https://www.shuheiktgw.com/tags/golang/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.shuheiktgw.com/tags/golang/</guid>
       <description></description>

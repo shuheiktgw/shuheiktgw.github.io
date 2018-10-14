@@ -7,19 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright Shuhei Kitagawa</copyright>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.shuheiktgw.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://www.shuheiktgw.com/posts/test/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Hugoで作成したサイトをGitHub PagesとRoute53で独自ドメイン&amp;HTTPS化して公開する</title>
+      <link>https://www.shuheiktgw.com/posts/hugo_with_github_pages_and_route53/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shuheiktgw.com/posts/test/</guid>
-      <description>This is a test post
-test test  </description>
+      <guid>https://www.shuheiktgw.com/posts/hugo_with_github_pages_and_route53/</guid>
+      <description>このサイトはStatic Site GeneratorのHugoとGitHub Pagesを使って公開されているのですが, AWSのRoute53で独自ドメインを取得したり, HTTPS化する情報が少なくて苦労しました.
+ここでは, HugoとGitHub Pagesを使って公開したサイトに, Route53を使って独自ドメインを適応し,合わせてHTTPS化するための方法を解説したいと思います.
+Hugoのセットアップ  Hugo - Quick Start  Hugoをインストールしてテーマを適応するまでの流れは,上記公式ドキュメントで丁寧にまとめられています. Hugoは開発が活発で頻繁に手順が変わるため, 常に公式ドキュメントを参照することをおすすめします.
+Hugoで作成したサイトをGitHub Pagesへ公開する  Hugo - Host on GitHub  こちらもスクリプトとともに上記の公式サイトで解説されています. こちらはややリッチすぎる感もあるため,最低限必要な手順だけ下記に記しておきます.
+1 &amp;lt;GitHub User Name&amp;gt;.github.io という名前のレポジトリを作成する 私のGitHubユーザー名は shuheiktgw なので,私の場合は shuheiktgw.github.io という名前のレポジトリを作成します.
+2 baseurl を https://&amp;lt;GitHub User Name&amp;gt;.github.io/ に設定する config.toml の baseurl を https://&amp;lt;GitHub User Name&amp;gt;.github.io/ に設定します.
+3 hugo で静的サイトを作成する プロジェクトのルートで hugo コマンドを実行します. そうすると public/ に静的なサイトがビルドされるはずです.
+4 public/ を &amp;lt;GitHub User Name&amp;gt;.</description>
     </item>
     
   </channel>
