@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on shuheiktgw.com</title>
-    <link>https://shuheiktgw.com/tags/</link>
+    <link>https://www.shuheiktgw.com/tags/</link>
     <description>Recent content in Tags on shuheiktgw.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright Shuhei Kitagawa</copyright>
     <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shuheiktgw.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.shuheiktgw.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Go</title>
-      <link>https://shuheiktgw.com/tags/go/</link>
+      <link>https://www.shuheiktgw.com/tags/go/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://shuheiktgw.com/tags/go/</guid>
+      <guid>https://www.shuheiktgw.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://shuheiktgw.com/tags/golang/</link>
+      <link>https://www.shuheiktgw.com/tags/golang/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://shuheiktgw.com/tags/golang/</guid>
+      <guid>https://www.shuheiktgw.com/tags/golang/</guid>
       <description></description>
     </item>
     

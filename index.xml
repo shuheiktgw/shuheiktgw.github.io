@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shuheiktgw.com</title>
-    <link>https://shuheiktgw.com/</link>
+    <link>https://www.shuheiktgw.com/</link>
     <description>Recent content on shuheiktgw.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright Shuhei Kitagawa</copyright>
     <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shuheiktgw.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.shuheiktgw.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://shuheiktgw.com/posts/test/</link>
+      <link>https://www.shuheiktgw.com/posts/test/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://shuheiktgw.com/posts/test/</guid>
+      <guid>https://www.shuheiktgw.com/posts/test/</guid>
       <description>This is a test post
 test test  </description>
     </item>
