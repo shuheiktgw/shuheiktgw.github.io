@@ -147,13 +147,13 @@ $ git push origin master
 
 <p>まずはじめに <code>shuheiktgw.com</code> にCNAMEを登録します. Route53にCNAMEを登録する細かい手順は上記のヘルプページをご参照いただきたいのですが, 私の場合は <code>www.shuheiktgw.com</code> というサブドメインに <code>shuheiktgw.github.io</code> をマップするためAWSコンソールでの設定は以下のようになります.</p>
 
-<p><img src="../../static/images/hugo_with_github_pages_and_route53/route53-cname.png" alt="Route53 and CNAME" /></p>
+<p><img src="/images/hugo_with_github_pages_and_route53/route53-cname.png" alt="Route53 and CNAME" /></p>
 
 <h3 id="2-独自ドメインをgithubに登録し-enforce-httpsを有効にする">2 独自ドメインをGitHubに登録し,Enforce HTTPSを有効にする</h3>
 
 <p><code>&lt;GitHub User Name&gt;/&lt;GitHub User Name&gt;.github.io</code>のレポジトリにアクセスして, Settings &gt; GitHub PagesからCustom domainを入力し, Enforce HTTPSを有効にします. 私の場合は下記のような設定になります.</p>
 
-<p><img src="../../static/images/hugo_with_github_pages_and_route53/github-pages-custom-domain.png" alt="Route53 and CNAME" /></p>
+<p><img src="/images/hugo_with_github_pages_and_route53/github-pages-custom-domain.png" alt="Route53 and CNAME" /></p>
 
 <h3 id="3-baseurl-を更新する">3 <code>baseurl</code> を更新する</h3>
 
